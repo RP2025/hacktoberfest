@@ -11,6 +11,12 @@
 - Bio: Undergrad Student, full stack developer, open source enthusiast
 - GitHub: [AmoghPatel1](https://github.com/AmoghPatel1)
 
+### Name: [Arpan Mandal](https://www.linkedin.com/in/arpan-mandal-a17b81229/)
+
+- Place: Bankura,West Bengal ,India
+- Bio: Undergraduate Student
+- GitHub: [Arpan Mandal](https://www.linkedin.com/in/arpan-mandal-a17b81229/) 
+
 ### Name: [Guruvignesh](https://github.com/staticGuru)
 
 - Place:Chennai, Tamil Nadu, India
